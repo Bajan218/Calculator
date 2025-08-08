@@ -1,4 +1,5 @@
 # Calculator
 
-Building a calculator
+Building a calculator (IN PROCES...)
+
 - learning JavaScript (console.log, math, variables) 
